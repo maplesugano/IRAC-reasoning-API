@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic-settings
+semantic-kernel
+openrouteservice
+geopy
+pytest
+pandas
+pinecone
+langchain
+pinecone-client==2.2.2
+langchain_community
